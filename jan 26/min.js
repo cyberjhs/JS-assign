@@ -8,12 +8,13 @@ n3 = parseInt(n3);
 
 if(n1<=n2 && n1<=n3)
 {
-alert(n1+ "is minimum");
+alert(n1 + "is minimum");
 }
 else if(n2<=n1 && n2<=n3)
 {
-alert(n2+ "is minimum");
+alert(n2 + "is minimum");
 }
 else
 {
-alert(n3+ "is minimum");
+alert(n3 + "is minimum");
+}
