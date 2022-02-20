@@ -1,0 +1,22 @@
+table, td, tr{
+    border: 2px solid black;
+}
+
+table{
+    border-collapse: collapse;
+    width: 500px;
+    height: 300px;
+}
+tbody tr:nth-child(3n+1){
+    background-color: lightgray;
+}
+tbody tr:nth-child(3n+2){
+    background-color: gray;
+}
+tbody tr:nth-child(3n+3){
+    background-color:   darkgray;
+}
+thead tr:nth-child(n){
+    background-color:mistyrose;
+
+}
