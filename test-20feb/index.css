@@ -1,0 +1,162 @@
+body{
+    background-color:rgb(55, 186, 238);
+    text-align: center;
+    box-shadow: 0 0 1px 1px black;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.top{
+    background-color: rgb(133, 255, 133);
+    padding: 20px 10px;
+    margin: 20px 20px;
+    box-shadow: 0 0 1px 1px black;
+    text-align: center;
+}
+.middle{
+    background-color: rgb(243, 255, 24);
+    padding: 20px 10px;
+    margin: 20px 170px;
+    box-shadow: 0 0 1px 1px black;
+    text-align: center;
+}
+.bottom{
+    background-color: rgb(243, 255, 24);
+    padding: 20px 10px;
+    margin: 20px 20px;
+    box-shadow: 0 0 1px 1px black;
+    text-align: center;
+}
+.main-section{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    justify-content: center;
+    justify-content: space-evenly;
+    background-color: violet;
+    padding: 20px 10px;
+    margin: 20px 20px;
+    box-shadow: 0 0 1px 1px black;
+    text-align: center;
+
+}
+
+.section-head{
+    background-color: rgb(243, 255, 24);
+    padding: 20px 10px;
+    margin: 20px 500px;
+    box-shadow: 0 0 1px 1px black;
+    text-align: center;
+}
+.section-bottom{
+    display: flex;
+    flex-wrap: nowrap;
+    gap: .8rem;
+    justify-content: space-evenly;
+    justify-content: center;
+
+}
+.close-body{
+    background-color: rgb(243, 255, 24);
+    padding: 20px 10px;
+    margin: 20px 50px;
+    box-shadow: 0 0 1px 1px black;
+}
+.colse-html{
+    background-color: rgb(243, 255, 24);
+    padding: 20px 10px;
+    margin: 20px 50px;
+    box-shadow: 0 0 1px 1px black;
+}
+.section-middle{
+    background-color: rgb(133, 255, 133);
+    padding: 20px 10px;
+    margin: 20px 90px;
+    box-shadow: 0 0 1px 1px black;
+}
+.wrapper{
+    background-color: rgb(243, 255, 24);
+    padding: 20px 10px;
+    margin: 20px 400px;
+    box-shadow: 0 0 1px 1px black;
+}
+.head-article{
+    background-color: rgb(249, 133, 255);
+    padding: 20px 10px;
+    margin: 20px 90px;
+    box-shadow: 0 0 1px 1px black;
+}
+.container1{
+    background-color: rgb(243, 255, 24);
+    padding: 20px 10px;
+    margin: 20px 300px;
+    box-shadow: 0 0 1px 1px black;
+}
+.head-header{
+    background-color: rgb(255, 250, 114);
+    padding: 20px 10px;
+    margin: 20px 200px;
+    box-shadow: 0 0 1px 1px black;
+}
+.header{
+    background-color: rgb(243, 255, 24);
+    padding: 20px 10px;
+    margin: 20px 100px;
+    box-shadow: 0 0 1px 1px black;
+}
+.head-footer{
+    background-color: rgb(185, 238, 247);
+    padding: 20px 10px;
+    margin: 20px 200px;
+    box-shadow: 0 0 1px 1px black;
+}
+.footer{
+    background-color: rgb(243, 255, 24);
+    padding: 20px 10px;
+    margin: 20px 100px;
+    box-shadow: 0 0 1px 1px black;
+}
+.head-navigation{
+    background-color: rgb(232, 57, 255);
+    padding: 20px 10px;
+    margin: 20px 200px;
+    box-shadow: 0 0 1px 1px black;
+}
+.navigation{
+    background-color: rgb(243, 255, 24);
+    padding: 20px 10px;
+    margin: 0px 100px;
+    box-shadow: 0 0 1px 1px black;
+}
+.head-container2{
+    
+    background-color: rgb(109, 233, 255);
+    padding: 20px 10px;
+    margin: 20px 200px;
+    box-shadow: 0 0 1px 1px black;
+}
+.container2{
+
+    background-color: rgb(243, 255, 24);
+    padding: 100px 10px;
+    margin: 20px 30px;
+    box-shadow: 0 0 1px 1px black;
+}
+.item{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.content{
+    float: right;
+    background-color: rgb(199, 199, 199);
+    padding: 20px 10px;
+    margin: 20px 50px;
+    box-shadow: 0 0 1px 1px black;
+}
+.float{
+    float: right;
+    background-color: rgb(199, 199, 199);
+    padding: 20px 10px;
+    margin: 20px 50px;
+    box-shadow: 0 0 1px 1px black;
